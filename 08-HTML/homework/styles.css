@@ -1,0 +1,52 @@
+body{
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+
+.fondo{
+	position: absolute;
+	height: 151%;
+	width: 100%;
+	opacity: 0.76;
+	z-index:-2;
+}
+
+
+h1{
+	color: #00d9;
+	text-align: center;
+}
+
+img{
+	 width: 400px;
+}
+
+		
+#thirdDiv{
+
+		height: 600px;
+		width: 500px;
+		background: #68e4;
+		padding: 50px;
+		border-color: red;
+		border-width: 6px;
+		border-style: double;
+		position: absolute;
+		right: 27.5%;
+		bottom: -320px;
+}
+
+#spanId{
+		font-size: 18px;
+		margin: 50px;
+}
+
+.divClass{
+	text-align: center;
+}
+
+
+
+
+
